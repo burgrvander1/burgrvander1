@@ -33,6 +33,6 @@ I frequently collaborate with Bernd Heidergott and Thao Le on projects involving
 ### 🌐 Connect with Me
 - **Website:** [burgrvander1.github.io](https://burgrvander1.github.io/)
 - **Academic Profiles:** [ORCID](https://orcid.org/your-id-here) | [LinkedIn](https://www.linkedin.com/in/your-profile-here)
-- **Email:** [r.vander.burg@vu.nl](mailto:r.vander.burg@vu.nl) (or your preferred VU email)
+- **Email:** [r.vander.burg@vu.nl](mailto:r.vander.burg@vu.nl)
 
 *"Exploring the intersection of probability and the physical world."*
