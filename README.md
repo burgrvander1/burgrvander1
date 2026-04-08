@@ -25,13 +25,13 @@ I frequently collaborate with Bernd Heidergott and Thao Le on projects involving
 ---
 
 ### 📊 GitHub Stats
-![Robbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgrvander1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burgrvander1&layout=compact&theme=radical)
+![Robbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbertvanderburg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbertvanderburg&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-- **Website:** [burgrvander1.github.io](https://burgrvander1.github.io/)
+- **Website:** [robbertvanderburg.github.io](https://robbertvanderburg.github.io/)
 - **Academic Profiles:** [ORCID]([https://orcid.org/your-id-here](https://orcid.org/0009-0007-4945-6120)) | [LinkedIn]([https://www.linkedin.com/in/your-profile-here](https://www.linkedin.com/in/robbert-van-der-burg/))
 - **Email:** [r.vander.burg@vu.nl](mailto:r.vander.burg@vu.nl)
 
