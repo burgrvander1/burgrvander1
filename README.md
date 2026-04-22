@@ -17,7 +17,7 @@ I am a **PhD Candidate in Mathematics** at the **Vrije Universiteit Amsterdam**,
 I am currently investigating how extreme weather (wind storms, floods, heatwaves) manifests as spatial fields that affect spatially distributed networks. I work under the supervision of **Alessandro Zocca** and **Frank van der Meulen**.
 
 ### 🤝 Collaboration
-I frequently collaborate with Bernd Heidergott and Thao Le on projects involving:
+I frequently collaborate with Bernd Heidergott on projects involving:
 - Hitting times and first passage times on graph models.
 - The Kemeny constant and its applications.
 - Social network analysis and opinion dynamics.
